@@ -26,5 +26,5 @@ How to explore
 2. View the Summary Dashboard and Overview Dashboard.
 3. Explore filters and compare metrics by loan segment.
 4. Consult Sheet Design for supporting calculations.
-Limitations and responsible publication
+# Limitations and responsible publication
 The source, reporting date, currency and licensing terms need confirmation. Verify calculations and classification logic before drawing business conclusions. The raw workbook includes member_id and emp_title, which may contain sensitive or identifying information. Do not publish the raw workbook until you have permission and have reviewed or anonymized the data.
