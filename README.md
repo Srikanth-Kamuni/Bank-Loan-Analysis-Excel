@@ -37,12 +37,14 @@ An interactive Excel dashboard for analysing bank loan applications, funding per
 
 ### 1. Summary Dashboard
 
-![Bank Loan Summary Dashboard](<img width="1070" height="522" alt="BankLoan_Summary_dashboard" src="https://github.com/user-attachments/assets/c2d56a03-da45-488c-8e67-3463689160b9" />)
+![Bank Loan Summary Dashboard]<img width="1070" height="522" alt="BankLoan_Summary_dashboard" src="https://github.com/user-attachments/assets/dae4d2fc-e5db-44bc-89b1-46a9ce39b405" />
+
 
 
 ### 2. Overview Dashboard
 
-![Bank Loan Overview Dashboard](<img width="1064" height="516" alt="BankLoan_Overview_dashboard" src="https://github.com/user-attachments/assets/46c42f04-0829-48fe-8e5e-5109f9966c04" />)
+![Bank Loan Overview Dashboard]<img width="1064" height="516" alt="BankLoan_Overview_dashboard" src="https://github.com/user-attachments/assets/19838ea9-973a-4df3-8c00-dc28a87768ec" />
+
 
 ## Tools Used
 
