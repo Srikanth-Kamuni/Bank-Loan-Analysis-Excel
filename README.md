@@ -28,3 +28,26 @@ How to explore
 4. Consult Sheet Design for supporting calculations.
 # Limitations and responsible publication
 The source, reporting date, currency and licensing terms need confirmation. Verify calculations and classification logic before drawing business conclusions. The raw workbook includes member_id and emp_title, which may contain sensitive or identifying information. Do not publish the raw workbook until you have permission and have reviewed or anonymized the data.
+
+## Bank Loan Analysis Dashboard
+
+An interactive Excel dashboard for analysing bank loan applications, funding performance, repayment trends and borrower characteristics.
+
+## Dashboard Preview
+
+### 1. Summary Dashboard
+
+![Bank Loan Summary Dashboard](images/summary-dashboard.png)
+
+### 2. Overview Dashboard
+
+![Bank Loan Overview Dashboard](images/overview-dashboard.png)
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables and Pivot Charts
+- Excel Formulas
+- Slicers and Interactive Filters
+- Data Cleaning and Analysis
+  
