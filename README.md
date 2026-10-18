@@ -1,0 +1,2 @@
+# Bank-Loan-Analysis-Excel
+Interactive Excel dashboard for bank loan portfolio analysis, lending KPIs and loan performance.
